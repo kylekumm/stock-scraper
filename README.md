@@ -1,4 +1,4 @@
-# Development Stock Scraper
+# Production Stock Scraper
 Small python script that checks data of certain JSE listed stocks or ETFs and exports the data to an excel spreadsheet. I created this in 2021 after learning some Python basics in my CMPG111 class, and wanted to create something to test myself and simultaneously try something new. It was made with the intention that I get to have instantaneous access to the data as well as be able to do my own analysis offline. After much Googling and reading, I was able to come up with something rudimentary and "worked".
 
 **Solving the Problem**
